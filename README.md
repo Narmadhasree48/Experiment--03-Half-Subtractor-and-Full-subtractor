@@ -35,20 +35,34 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+## Half Subtractor:
+![Screenshot 2023-11-21 215206](https://github.com/Narmadhasree48/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979451/a8d566b0-5c70-4e2b-a7a5-50500baf6e0a)
+
+## Full Subtractor:
+![Screenshot 2023-11-21 215210](https://github.com/Narmadhasree48/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979451/87603587-384b-4ef1-b792-4f5effef33bb)
 
 ## Output:
 
-## Truthtable
+## Truthtable:
+## Half Subtractor:
+![Screenshot 2023-11-21 215222](https://github.com/Narmadhasree48/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979451/8663e4f4-dbb7-4e5c-b0ec-f945994320e5)
 
+## Full Subtractor:
+![Screenshot 2023-11-21 215228](https://github.com/Narmadhasree48/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979451/fdc18ff7-245c-4397-a8d4-e3ccfd7971cb)
 
+##  RTL realization:
+## Half Subtractor:
+![Screenshot 2023-11-21 215253](https://github.com/Narmadhasree48/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979451/1fc3412e-fa14-49d5-83e2-a8323f0c620b)
 
-##  RTL realization
+## Full Subtractor:
+![Screenshot 2023-11-21 215307](https://github.com/Narmadhasree48/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979451/a02110bc-c5fc-4b5f-bbc8-e3cbc3cbd327)
 
+## Timing diagram :
+## Half Subtractor:
+![Screenshot 2023-11-21 215343](https://github.com/Narmadhasree48/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979451/e4aa8414-269d-4db5-9dc8-6253e84e1492)
 
-## Timing diagram 
+## Full Subtractor:
+![Screenshot 2023-11-21 215358](https://github.com/Narmadhasree48/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979451/52765a73-cd9a-463c-8583-83cc2f5713ba)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
